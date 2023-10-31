@@ -92,7 +92,7 @@ html {
 }
 
 .image1 {
-    background-image: url('/image/image1.png');
+    background-image: url('/BÀI CUỐI KỲ NGUYỄN MẠNH DŨNG/image/image1.png');
     background-repeat: no-repeat;
     background-size: cover;
     padding-top: 50%;
@@ -120,7 +120,7 @@ html {
 }
 
 .image2 {
-    background-image: url('/image/nhan-long-2.jpg');
+    background-image: url('/BÀI CUỐI KỲ NGUYỄN MẠNH DŨNG/image/nhan-long-2.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     padding-top: 50%;
@@ -258,15 +258,17 @@ button:hover {
     position: relative;
     font-size: 1rem;
 }
-
+textarea{
+    resize: none;
+}
 .search>input::placeholder {
     font-weight: 400;
 }
 
 .search>button {
     position: absolute;
-    top: -7px;
-    right: 0px;
+    top: -5px;
+    right: 1px;
     border-bottom-right-radius: 20px;
     border-top-right-radius: 20px;
     font-size: 0.9rem;
