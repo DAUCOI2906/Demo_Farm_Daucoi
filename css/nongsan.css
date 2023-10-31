@@ -92,7 +92,7 @@ html {
 }
 
 .image1 {
-    background-image: url('/BÀI CUỐI KỲ NGUYỄN MẠNH DŨNG/image/image1.png');
+    background-image: url('../image/image1.png');
     background-repeat: no-repeat;
     background-size: cover;
     padding-top: 50%;
@@ -120,7 +120,7 @@ html {
 }
 
 .image2 {
-    background-image: url('/BÀI CUỐI KỲ NGUYỄN MẠNH DŨNG/image/nhan-long-2.jpg');
+    background-image: url('../image/nhan-long-2.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     padding-top: 50%;
